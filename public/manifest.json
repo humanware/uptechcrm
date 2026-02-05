@@ -1,0 +1,15 @@
+{
+  "name": "Uptech Solution",
+  "short_name": "Uptech",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/img/AdminLTELogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
